@@ -1,0 +1,14 @@
+\\Cmed-file-svr\My Documents\jdavis\My Documents\Visual Studio 2015\Projects\CrossReferencing v3(import)\CrossReferencing\bin\Release\CrossReferencing.exe.config
+\\Cmed-file-svr\My Documents\jdavis\My Documents\Visual Studio 2015\Projects\CrossReferencing v3(import)\CrossReferencing\bin\Release\CrossReferencing.exe
+\\Cmed-file-svr\My Documents\jdavis\My Documents\Visual Studio 2015\Projects\CrossReferencing v3(import)\CrossReferencing\bin\Release\CrossReferencing.pdb
+\\Cmed-file-svr\My Documents\jdavis\My Documents\Visual Studio 2015\Projects\CrossReferencing v3(import)\CrossReferencing\obj\Release\CrossReferencing.csprojResolveAssemblyReference.cache
+\\Cmed-file-svr\My Documents\jdavis\My Documents\Visual Studio 2015\Projects\CrossReferencing v3(import)\CrossReferencing\obj\Release\CrossReferencing.csproj.ResolveComReference.cache
+\\Cmed-file-svr\My Documents\jdavis\My Documents\Visual Studio 2015\Projects\CrossReferencing v3(import)\CrossReferencing\obj\Release\CrossReferencing.Export.resources
+\\Cmed-file-svr\My Documents\jdavis\My Documents\Visual Studio 2015\Projects\CrossReferencing v3(import)\CrossReferencing\obj\Release\CrossReferencing.Form1.resources
+\\Cmed-file-svr\My Documents\jdavis\My Documents\Visual Studio 2015\Projects\CrossReferencing v3(import)\CrossReferencing\obj\Release\CrossReferencing.Form2.resources
+\\Cmed-file-svr\My Documents\jdavis\My Documents\Visual Studio 2015\Projects\CrossReferencing v3(import)\CrossReferencing\obj\Release\CrossReferencing.Form3.resources
+\\Cmed-file-svr\My Documents\jdavis\My Documents\Visual Studio 2015\Projects\CrossReferencing v3(import)\CrossReferencing\obj\Release\CrossReferencing.Form4.resources
+\\Cmed-file-svr\My Documents\jdavis\My Documents\Visual Studio 2015\Projects\CrossReferencing v3(import)\CrossReferencing\obj\Release\CrossReferencing.Properties.Resources.resources
+\\Cmed-file-svr\My Documents\jdavis\My Documents\Visual Studio 2015\Projects\CrossReferencing v3(import)\CrossReferencing\obj\Release\CrossReferencing.csproj.GenerateResource.Cache
+\\Cmed-file-svr\My Documents\jdavis\My Documents\Visual Studio 2015\Projects\CrossReferencing v3(import)\CrossReferencing\obj\Release\CrossReferencing.exe
+\\Cmed-file-svr\My Documents\jdavis\My Documents\Visual Studio 2015\Projects\CrossReferencing v3(import)\CrossReferencing\obj\Release\CrossReferencing.pdb

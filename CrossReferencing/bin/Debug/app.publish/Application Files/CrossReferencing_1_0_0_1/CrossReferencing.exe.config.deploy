@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="CrossReferencing.Properties.Settings.Carimed_InventoryConnectionString"
+            connectionString="Data Source=LPMSW09000012JD\SQLEXPRESS;Initial Catalog=&quot;Carimed Inventory&quot;;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+        <add name="CrossReferencing.Properties.Settings.PharmaciesConnectionString"
+            connectionString="Data Source=LPMSW09000012JD\SQLEXPRESS;Initial Catalog=Pharmacies;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+        <add name="CrossReferencing.Properties.Settings.Pharmacy_Output_FileConnectionString"
+            connectionString="Data Source=LPMSW09000012JD\SQLEXPRESS;Initial Catalog=Pharmacy_Output_File;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+    </startup>
+</configuration>
